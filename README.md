@@ -1,8 +1,11 @@
+# Robo Friend Project 
+
+This project was made with ["The Complete Web Developer in 2021: Zero to Mastery" Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery)
+
 Test the app here: https://josenaime.github.io/RoboFriends/
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+### This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Available Scripts
 
 In the project directory, you can run:
